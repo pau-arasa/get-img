@@ -22,6 +22,7 @@ It can be installed with pip like this:
 python -m pip install requests
 
 **MacOS / Linux:**
+
 pip3 install requests
 
 It might be necessary to reset the console after installing the package
