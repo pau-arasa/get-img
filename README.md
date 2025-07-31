@@ -8,6 +8,9 @@ This script prompts for:
   
 Then it sends an HTTP request to the https://picsum.photos API and downloads random images to the directory.
 
+# Execution
+<img width="973" height="292" alt="image" src="https://github.com/user-attachments/assets/63ef4dcc-3ee6-4838-826a-0b52bda8d909" />
+
 
 # Requirements
 
