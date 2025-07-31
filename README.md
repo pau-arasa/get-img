@@ -17,7 +17,8 @@ Then it sends an HTTP request to the https://picsum.photos API and downloads ran
 The script requires the Python environment to have the **requests** package to be able to send HTTP requests.
 It can be installed with pip like this:
 
-**Windows: (through CMD admin mode)**
+**Windows: (through CMD admin mode:)**
+
 python -m pip install requests
 
 **MacOS / Linux:**
