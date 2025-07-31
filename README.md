@@ -25,6 +25,7 @@ python -m pip install requests
 
 pip3 install requests
 
+
 It might be necessary to reset the console after installing the package
 
 After this, the script can be ran from the console as:
